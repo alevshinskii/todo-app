@@ -290,3 +290,7 @@ body {
 .c-cb > input[type="checkbox"]:checked + label::after {
   opacity: 1;
 }
+
+form{
+  margin-bottom: 10px;
+}
